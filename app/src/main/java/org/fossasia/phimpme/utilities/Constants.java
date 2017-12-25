@@ -39,7 +39,7 @@ public class Constants {
     public static final String MY_IMGUR_CLIENT_ID = "enter client-id here";
     public static final String IMGUR_LOGIN_URL = "https://api.imgur.com/oauth2/authorize?client_id=" + MY_IMGUR_CLIENT_ID + "&response_type=token";
 
-    public static final String PINTEREST_APP_ID = "enter app id";
+    public static final String PINTEREST_APP_ID = "4941411469641139505";
 
     public final static String PACKAGE_FACEBOOK = "com.facebook.katana";
     public final static String PACKAGE_INSTAGRAM = "com.instagram.android";
